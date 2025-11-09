@@ -216,16 +216,18 @@ main {
     flex-grow: 1;
 }
 
-#signup-form>h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
-}
 
 #signup-form {
     padding: 30px;
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
 }
+
+#signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
 
 .text-input {
     background: transparent;
